@@ -1,0 +1,15 @@
+﻿@keyframes slideIn 
+{
+    from
+    {
+        transform: translateX(100%);
+    }
+    to 
+    {
+        transform: translateX(0);
+    }
+}
+
+.color {
+    background-color: rgba(8, 6, 28, 0.94);
+}
